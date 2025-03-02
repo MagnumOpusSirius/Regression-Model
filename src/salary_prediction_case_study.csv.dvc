@@ -1,0 +1,5 @@
+outs:
+- md5: a45856f13f04e5ba95ab1f3c98c2597e
+  size: 315047
+  hash: md5
+  path: salary_prediction_case_study.csv

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/parth/Desktop/ML_Project_2025/Regression-Model/src/mlruns/897781703683139863/3d183fdba3514828a6b4ed8d10c730b1/artifacts
+end_time: 1740932768974
+entry_point_name: ''
+experiment_id: '897781703683139863'
+lifecycle_stage: active
+run_id: 3d183fdba3514828a6b4ed8d10c730b1
+run_name: dapper-cow-686
+run_uuid: 3d183fdba3514828a6b4ed8d10c730b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740932765907
+status: 3
+tags: []
+user_id: parth

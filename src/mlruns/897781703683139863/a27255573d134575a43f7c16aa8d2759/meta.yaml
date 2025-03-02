@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/parth/Desktop/ML_Project_2025/Regression-Model/src/mlruns/897781703683139863/a27255573d134575a43f7c16aa8d2759/artifacts
+end_time: 1740931444543
+entry_point_name: ''
+experiment_id: '897781703683139863'
+lifecycle_stage: active
+run_id: a27255573d134575a43f7c16aa8d2759
+run_name: abundant-toad-234
+run_uuid: a27255573d134575a43f7c16aa8d2759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740931439139
+status: 3
+tags: []
+user_id: parth

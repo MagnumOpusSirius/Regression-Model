@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/parth/Desktop/ML_Project_2025/Regression-Model/src/mlruns/897781703683139863/67d06ac58f334078851ce803c8bf0ed4/artifacts
+end_time: 1740932660871
+entry_point_name: ''
+experiment_id: '897781703683139863'
+lifecycle_stage: active
+run_id: 67d06ac58f334078851ce803c8bf0ed4
+run_name: serious-shad-611
+run_uuid: 67d06ac58f334078851ce803c8bf0ed4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740932655586
+status: 3
+tags: []
+user_id: parth

@@ -1,0 +1,20 @@
+artifact_path: salary_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 2.20.2
+model_size_bytes: 3326022
+model_uuid: 2335cf6c4dbd4a7eba7290a59a5dd491
+run_id: 67d06ac58f334078851ce803c8bf0ed4
+utc_time_created: '2025-03-02 16:24:17.661568'
